@@ -2,7 +2,7 @@
 - 👀 I’m interested in knowing the technical world.
 - 🌱 I’m currently learning Java and Web Development , and I know C/C++.
 - 💞️ I’m looking to collaborate on minor project based on Java and C/C++
-- 📫 How to reach me EMAIL: anushk2201@gmail.com
+- 📫 How to reach me EMAIL : anushk2201@gmail.com
 
 <!---
 AnushkJain2201/AnushkJain2201 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
