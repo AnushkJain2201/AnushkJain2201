@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AnushkJain2201
 - 👀 I’m interested in knowing the technical world.
-- 🌱 I’m currently learning Java and Web Development , and I know C/C++.
-- 💞️ I’m looking to collaborate on minor project based on Java and C/C++
+- 🌱 I’m currently learning Java and Web Development.
+- 💞️ I’m looking to collaborate on minor project based on MERN Stack.
 - 📫 How to reach me EMAIL : anushk2201@gmail.com
 
 <!---
