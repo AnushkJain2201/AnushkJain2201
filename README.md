@@ -14,11 +14,11 @@
 
 ###
 
-<p align="left">I'm Anushk from Jabalpur <br><br>- 🔭 I’m a Student.<br>- 📚 I'm currently learning Advance Java.<br>- ⚡ In my free time I Reads.</p>
+<h3 align="left">👩‍💻  About Me</h3>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<p align="left">I'm Anushk from Jabalpur <br><br>- 🔭 I’m a Student.<br>- 📚 I'm currently learning Advance Java.<br>- ⚡ In my free time I Reads.</p>
 
 ###
 
