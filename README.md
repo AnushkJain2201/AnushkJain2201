@@ -57,6 +57,16 @@
 ###
 
 <div align="center">
+  <img height="300" src="https://api.githubtrends.io/user/svg/AnushkJain2201/langs?time_range=six_months&theme=synthwaves"  />
+  
+  
+  <img height="300" src="https://api.githubtrends.io/user/svg/AnushkJain2201/repos?time_range=one_year&theme=synthwaves"  />
+  <img width="12" />
+</div>
+
+###
+
+<div align="center">
   <img height="150" src="https://media.giphy.com/media/2Rc2BC6AwdOncuw6Sf/giphy.gif"  />
 </div>
 
